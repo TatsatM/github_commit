@@ -1,4 +1,4 @@
-# .github/workflows/daily_commit.yml
+# .github/workflows/commit.yml
 name: Daily Commit
 
 on:
